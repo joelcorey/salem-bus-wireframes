@@ -62,6 +62,10 @@ body, html {
 	align-items: center;
 }
 
+.height-full {
+	height: 100%;
+}
+
 .menu-overlay-content {
 	display: flex;
 	flex-direction: column;
